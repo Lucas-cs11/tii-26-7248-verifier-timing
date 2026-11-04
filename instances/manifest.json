@@ -1,0 +1,10 @@
+{
+ "models": 36450,
+ "shards": 255,
+ "per_shard": 143,
+ "source": "results/fullscale_corrected/fullscale_results_mscg_lp_complete.csv (frozen 36,450 benchmark)",
+ "method": "main",
+ "warmup": 0,
+ "repeats": 3,
+ "timeout_s": 60
+}
