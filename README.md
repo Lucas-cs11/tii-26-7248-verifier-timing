@@ -1,4 +1,4 @@
-# Verifier timing re-run (TII-26-7248, Figure 3)
+> **Archived companion repository.** The canonical, reviewer-facing package for TII-26-7248 lives at **[Lucas-cs11/tii-26-7248-reproducibility](https://github.com/Lucas-cs11/tii-26-7248-reproducibility)** (frozen protocols, execution code, result summaries and claim-to-evidence map). This repository is kept as the historical archive with the full raw data.\n\n---\n\n# Verifier timing re-run (TII-26-7248, Figure 3)
 
 Re-runs the proposed verifier on the frozen 36,450-evaluation benchmark to recover
 per-case runtimes, because the original per-case timing file was overwritten by a
